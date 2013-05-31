@@ -1,1 +1,2 @@
-Put your email address and password in candidate/Program.cs
+I don't remember much about this.  Looks like just a proof of concept for working with the Salesforce API from 
+C-sharp, because WSDL is a little easier to work with in C-sharp than in anything else.
